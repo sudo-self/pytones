@@ -1,6 +1,8 @@
 # Pytones
 ### [![Pytone CI](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml/badge.svg)](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml)
 ```
+git clone https://github.com/sudo-self/pytones.git
+cd pytones
 python3 -m venv pytones
 source pytones/bin/activate
 pip install -r requirements.txt
