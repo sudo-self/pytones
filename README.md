@@ -1,5 +1,5 @@
 # Pytones
-### 
+### [![Pytone CI](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml/badge.svg)](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml)
 ```
 python3 -m venv /pytones
 source /bin/activate
